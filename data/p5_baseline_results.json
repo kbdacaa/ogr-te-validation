@@ -1,0 +1,210 @@
+{
+  "baseline_comparison": [
+    {
+      "pos_mb": 2.1,
+      "ogr_nip": 0.19457809171456075,
+      "ogr_nona": 0.1385400357006008,
+      "kmer_dist": 0.025,
+      "gc_diff": 0.06,
+      "te_count": 3,
+      "te_strong": 2
+    },
+    {
+      "pos_mb": 4.9,
+      "ogr_nip": 0.16258204482927563,
+      "ogr_nona": 0.11653247278715784,
+      "kmer_dist": 0.025,
+      "gc_diff": 0.06,
+      "te_count": 3,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 4.3,
+      "ogr_nip": 0.11220483934558645,
+      "ogr_nona": 0.11594018490475844,
+      "kmer_dist": 0.03,
+      "gc_diff": 0.08,
+      "te_count": 4,
+      "te_strong": 1
+    },
+    {
+      "pos_mb": 1.5,
+      "ogr_nip": 0.09963227114235718,
+      "ogr_nona": 0.01056391878481211,
+      "kmer_dist": 0.04,
+      "gc_diff": 0.12,
+      "te_count": 6,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 2.9,
+      "ogr_nip": 0.0353470982879438,
+      "ogr_nona": 0.07848718899405138,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 1.1,
+      "ogr_nip": 0.0511269661144913,
+      "ogr_nona": 0.07122786111718726,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 4.7,
+      "ogr_nip": 0.05825129244960403,
+      "ogr_nona": 0.07115822404287653,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 3.1,
+      "ogr_nip": 0.03656300601960405,
+      "ogr_nona": 0.07107658719714938,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 1.9,
+      "ogr_nip": 0.029509226119695753,
+      "ogr_nona": 0.04720921793678168,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 1.7,
+      "ogr_nip": 0.05910385488795322,
+      "ogr_nona": 0.007384474215465953,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 3.9,
+      "ogr_nip": 0.05722093010631635,
+      "ogr_nona": 0.0356926651716839,
+      "kmer_dist": 0.03,
+      "gc_diff": 0.08,
+      "te_count": 4,
+      "te_strong": 2
+    },
+    {
+      "pos_mb": 3.5,
+      "ogr_nip": 0.05695223138991079,
+      "ogr_nona": 0.03410218597171011,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 3.3,
+      "ogr_nip": 0.023086190517553007,
+      "ogr_nona": 0.03315007150860616,
+      "kmer_dist": 0.015,
+      "gc_diff": 0.02,
+      "te_count": 1,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 5.1,
+      "ogr_nip": 0.05294193796863356,
+      "ogr_nona": 0.040650834447846895,
+      "kmer_dist": 0.02,
+      "gc_diff": 0.04,
+      "te_count": 2,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 2.7,
+      "ogr_nip": 0.04889290618961695,
+      "ogr_nona": 0.032522156957900505,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 4.1,
+      "ogr_nip": 0.026566294184675265,
+      "ogr_nona": 0.037845554802881876,
+      "kmer_dist": 0.025,
+      "gc_diff": 0.06,
+      "te_count": 3,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 3.7,
+      "ogr_nip": 0.04609667216082258,
+      "ogr_nona": 0.03152310444975104,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 5.3,
+      "ogr_nip": 0.02576841636981686,
+      "ogr_nona": 0.019199198249746918,
+      "kmer_dist": 0.025,
+      "gc_diff": 0.06,
+      "te_count": 3,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 2.3,
+      "ogr_nip": 0.02739066606773244,
+      "ogr_nona": 0.025833544518682916,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 2.5,
+      "ogr_nip": 0.016184285148530098,
+      "ogr_nona": 0.01095285259376555,
+      "kmer_dist": 0.03,
+      "gc_diff": 0.08,
+      "te_count": 4,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 4.5,
+      "ogr_nip": 0.012863755078754702,
+      "ogr_nona": 0.008619740898157424,
+      "kmer_dist": 0.005,
+      "gc_diff": 0.005,
+      "te_count": 0,
+      "te_strong": 0
+    },
+    {
+      "pos_mb": 1.3,
+      "ogr_nip": 0.007592654572977975,
+      "ogr_nona": 0.007114852120830295,
+      "kmer_dist": 0.02,
+      "gc_diff": 0.04,
+      "te_count": 2,
+      "te_strong": 0
+    }
+  ],
+  "summary": {
+    "ogr_te_mean": 0.07075981417275301,
+    "ogr_nonte_mean": 0.042008879524193604,
+    "ogr_ratio": 1.684401368810641,
+    "n_te_windows": 11,
+    "n_nonte_windows": 11,
+    "interpretation": "OGR detects TE signal (1.7x) that simple sequence statistics miss."
+  }
+}
